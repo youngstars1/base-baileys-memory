@@ -1,45 +1,97 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '56931316138@s.whatsapp.net',
+    remoteJid: '56949681602@s.whatsapp.net',
     fromMe: false,
-    id: 'C490EFBF86B6D26FB007051B573C7198',
+    id: '3A3DBCFBF255E630CCF6',
     participant: undefined
   },
-  messageTimestamp: 1723230272,
-  pushName: 'Joyce🌷✨',
+  messageTimestamp: 1723326732,
+  pushName: 'Dani',
   broadcast: false,
   message: Message {
-    conversation: 'Porque no',
+    conversation: 'Menu',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Porque no',
-  from: '56931316138'
+  body: 'Menu',
+  from: '56949681602'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_09b4add5-3e95-4e25-a558-32c710359f95',
+  keyword: 'key_61d166f2-5608-4225-b107-cc76f0b72aae',
+  answer: '¡Hola! 👋 Bienvenido/a a nuestro chat. Soy Ana👩, \r\n' +
+    'y soy la asesora virtual de *GEPSERVICES*. \r\n' +
+    '😊 Estoy aquí para ayudarte.\r\n' +
+    '\r\n' +
+    '¿En qué puedo asistirte hoy?\r\n' +
+    '\r\n' +
+    '*1-Trámites Extranjería*\r\n' +
+    '*2-Solicitud de visa Americana*\r\n' +
+    '*3-visa para Canáda-Processed Online*\r\n' +
+    '*4-Solicitud de visado Schengen*\r\n' +
+    '*5-Servicios de Traducciones*\r\n' +
+    '*6-Otros Tramite*\r\n' +
+    '*7-Agendar en nuestro Sitio web*\r\n' +
+    '*0- Si desea salir de este menú*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '24ae480ab5a363fc42c7570bd26176a4'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '56931316138@s.whatsapp.net',
+    remoteJid: '56949681602@s.whatsapp.net',
     fromMe: false,
-    id: '3D356B195F365C46DCEE7ADAF00EB0D9',
+    id: '3A72775DDE393166E45C',
     participant: undefined
   },
-  messageTimestamp: 1723231236,
-  pushName: 'Joyce🌷✨',
+  messageTimestamp: 1723326765,
+  pushName: 'Dani',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '56949681602'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56949681602@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7E22D3F051DCD60286',
+    participant: undefined
+  },
+  messageTimestamp: 1723326771,
+  pushName: 'Dani',
   broadcast: false,
   message: Message {
     audioMessage: AudioMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32574500_3631455037165821_6900119783746553502_n.enc?ccb=11-4&oh=01_Q5AaIMDbYhBY-VndMmZNFU8Ih3dHjrvoKXigYVeXb_rItPEo&oe=66DDD815&_nc_sid=5e03e0&mms3=true',
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19268697_861455018802257_620969148441309592_n.enc?ccb=11-4&oh=01_Q5AaIHFKfAmzRWh4NvCHV-AM2ACV7BDNRWBiZIw1QultBP3Z&oe=66DF6036&_nc_sid=5e03e0&mms3=true',
       mimetype: 'audio/ogg; codecs=opus',
       fileSha256: [Uint8Array],
       fileLength: [Long],
-      seconds: 4,
+      seconds: 1,
       ptt: true,
       mediaKey: [Uint8Array],
       fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7117-24/32574500_3631455037165821_6900119783746553502_n.enc?ccb=11-4&oh=01_Q5AaIMDbYhBY-VndMmZNFU8Ih3dHjrvoKXigYVeXb_rItPEo&oe=66DDD815&_nc_sid=5e03e0',
+      directPath: '/v/t62.7117-24/19268697_861455018802257_620969148441309592_n.enc?ccb=11-4&oh=01_Q5AaIHFKfAmzRWh4NvCHV-AM2ACV7BDNRWBiZIw1QultBP3Z&oe=66DF6036&_nc_sid=5e03e0',
       mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
       waveform: [Uint8Array]
     },
     messageContextInfo: MessageContextInfo {
@@ -47,6 +99,162 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: '_event_voice_note__43e6f836-c4e2-470a-888e-7d2dca203024',
-  from: '56931316138'
+  body: '_event_voice_note__173a3bf8-a484-43db-9fe4-dbb3ce9c0323',
+  from: '56949681602'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bcc6461b-4205-4b47-98bb-dd099987f7c4',
+  keyword: 'ans_8bd80f9f-f4ea-498b-91cf-38819ed8acfd',
+  answer: '¿Cual es tu Rut?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b2b4f044b49ce65299c235a23728aa9d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56949681602@s.whatsapp.net',
+    fromMe: false,
+    id: '3A238281899A8F23F586',
+    participant: undefined
+  },
+  messageTimestamp: 1723326782,
+  pushName: 'Dani',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32278211_3839604332961878_8755827443331937482_n.enc?ccb=11-4&oh=01_Q5AaICg-wlahcOed7jlNer39cQ5G6TXtCMmRALf5AHXRJuip&oe=66DF424F&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32278211_3839604332961878_8755827443331937482_n.enc?ccb=11-4&oh=01_Q5AaICg-wlahcOed7jlNer39cQ5G6TXtCMmRALf5AHXRJuip&oe=66DF424F&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__a6ec2376-82e8-460f-a8c5-049e8538be66',
+  from: '56949681602'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0d07ebf2-cfac-44c5-adbc-98f361b67ce7',
+  keyword: 'ans_bcc6461b-4205-4b47-98bb-dd099987f7c4',
+  answer: '¿Cual es tu Correo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0e24c7d81605d6b56076b5feef5a9f62'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bd80f9f-f4ea-498b-91cf-38819ed8acfd',
+  keyword: 'key_18151523-0d14-4a78-bc05-96f99590c625',
+  answer: '¿Cuéntame, que trámite desearía hacer?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3addd09593fbe697d177a0b5c24b81e4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56949681602@s.whatsapp.net',
+    fromMe: false,
+    id: '3A05FD45AE8078202AFD',
+    participant: undefined
+  },
+  messageTimestamp: 1723326798,
+  pushName: 'Dani',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19146364_959190339304381_920455467880480403_n.enc?ccb=11-4&oh=01_Q5AaIIooo0qENHWE7MshoLXHAqXwP0f_Kyz-wa8NapmJ5Uo1&oe=66DF3FA2&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19146364_959190339304381_920455467880480403_n.enc?ccb=11-4&oh=01_Q5AaIIooo0qENHWE7MshoLXHAqXwP0f_Kyz-wa8NapmJ5Uo1&oe=66DF3FA2&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__69b6eb10-ef90-4e01-ba73-8d421c67a913',
+  from: '56949681602'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bcc6461b-4205-4b47-98bb-dd099987f7c4',
+  keyword: 'ans_8bd80f9f-f4ea-498b-91cf-38819ed8acfd',
+  answer: '¿Cual es tu Rut?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b2b4f044b49ce65299c235a23728aa9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8bd80f9f-f4ea-498b-91cf-38819ed8acfd',
+  keyword: 'key_18151523-0d14-4a78-bc05-96f99590c625',
+  answer: '¿Cuéntame, que trámite desearía hacer?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3addd09593fbe697d177a0b5c24b81e4'
 }
